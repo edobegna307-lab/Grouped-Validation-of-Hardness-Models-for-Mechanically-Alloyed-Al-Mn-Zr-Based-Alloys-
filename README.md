@@ -54,6 +54,6 @@ Citation
 
 If you use this dataset or code, please cite the manuscript above. A version-locked archive DOI will be added upon deposition.
 
-License
 
-Specify a license (e.g. MIT for code, CC-BY-4.0 for data) before making the repository public, if not already set at the repository level.
+
+
