@@ -1,0 +1,16 @@
+
+cff-version: 1.2.0
+message: "Please cite this software when using it."
+title: "Physics-Informed ML for Al-Mn-Zr-RE Alloys"
+type: software
+
+authors:
+  - family-names: "Eshetu"
+    given-names: "Mintesenot Admasu"
+  - family-names: "Novikov"
+    given-names: "Alexander S."
+
+version: 1.0.0
+date-released: "2026-10-13"
+
+repository-code: "https://github.com/YOUR-USERNAME/YOUR-REPOSITORY"
